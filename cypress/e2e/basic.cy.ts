@@ -5,7 +5,7 @@ describe('empty spec', () => {
 
   it('display header text', () => {
     cy.get('h1')
-    .contains('Welcome to Clark Street Salon !', { matchCase: false })
+    .contains('Clark Street Salon!', { matchCase: false })
   })
 
   it('displays Click button', () => {
