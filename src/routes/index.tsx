@@ -6,6 +6,7 @@ export default function Home() {
     <main>
       <Title>Hello</Title>
       <h1>Welcome to Clark Street Salon!</h1>
+      <h3>Pardon our Dust</h3>
       <Counter />
       <p>
         Visit{" "}
