@@ -15,23 +15,6 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
-      <body>
-  <img src="img/6.png" alt="demo" class="img-responsive">
-
-
-.bg {
-  /* The image used */
-  background-image: URL("1.png");
-
-  /* Full height */
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size cover;
-}
-</body>
-    </main>
+        </main>
   );
 }
